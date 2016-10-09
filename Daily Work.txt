@@ -1,0 +1,15 @@
+Daily work
+
+DSA  (new should be done on recursion some question about recursion written on rough note book)
+
+SEGP ()
+
+CASS2  (lmc,new lecture and You need to submit the flow chart for each assignment in hard copy when you come for the lecture on Tuesday October 18, and submit a soft copy containing all your codes on LMS.)
+
+DBMS  (Difference between attribute and attribute value and also relation in a table,basics of databases and install progresql)
+
+AI    (if else condition was not working )
+
+CCN  (packet switchin and circuit switching and lecture of 5/10/2016 )
+
+Till sunday(malik,daily work,java revision of previous chapters)
